@@ -1,27 +1,28 @@
-# 👋 Hi, I’m @Jane Malik
+# 👋 Hi, I’m @Johny M
 
-🚀 Data Engineer | Python Developer | AI Enthusiast  
+📧 **Email:** [mjohny400@gmail.com](mailto:mjohny400@gmail.com)
 
-## 👀 I’m interested in ...  
-- Big Data Processing & Analytics  
-- Cloud Computing (AWS, GCP, Azure)  
-- Data Pipelines & ETL Workflows  
-- Machine Learning & AI Integration  
+🚀 **Data Engineer | Senior Data Analyst | Data Architect**
 
-## 🌱 I’m currently learning ...  
-- Apache Spark & Kafka  
-- Data Warehousing (Snowflake, Redshift)  
-- Real-Time Streaming Technologies  
+## 👀 I’m interested in ...
 
-## 💞️ I’m looking to collaborate on ...  
-- Open-source Data Engineering projects  
-- Optimized ETL pipelines for large-scale data  
-- AI-powered data processing tools  
+* Big Data Processing & Advanced Analytics
+* Cloud Platforms (AWS, GCP, Azure)
+* Scalable Data Pipelines & ETL Workflows
+* AI & Machine Learning Integration in Data Systems
 
-## ⚡ Fun fact:  
-I can make data pipelines flow smoother than your morning coffee ☕🚀  
+## 🌱 I’m currently learning ...
 
-<!---
-GhostCompiler/GhostCompiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Apache Spark, Kafka, and Airflow
+* Modern Data Warehousing (Snowflake, Redshift, BigQuery)
+* Real-Time Data Streaming and Orchestration
+
+## 💞️ I’m looking to collaborate on ...
+
+* Open-source Data Engineering and Analytics projects
+* Optimized ETL and Data Lake Solutions
+* AI-driven Data Automation Tools
+
+## ⚡ Fun fact:
+
+I make data pipelines flow smoother than your morning coffee ☕🚀
